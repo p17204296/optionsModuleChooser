@@ -1,0 +1,34 @@
+Name: Joe BLOGGS
+PNumber: P17204296
+Email: p17204296@joeyy.com
+Date: 2019-04-26
+Course: Computer Science
+
+Modules Selected
+==============
+Module Code: CTEC3902 Module Name: Rigorous Systems
+Credits: 15 Mandotary on your course? false Delivery: term 2
+
+Module Code: CTEC3905 Module Name: Front-End Web Development
+Credits: 15 Mandotary on your course? false Delivery: term 2
+
+Module Code: IMAT3104 Module Name: Database Management and Programming
+Credits: 15 Mandotary on your course? false Delivery: term 2
+
+Module Code: IMAT3406 Module Name: Fuzzy Logic and Knowledge Based Systems
+Credits: 15 Mandotary on your course? false Delivery: term 1
+
+Module Code: IMAT3423 Module Name: Systems Building: Methods
+Credits: 15 Mandotary on your course? true Delivery: term 1
+
+Module Code: IMAT3613 Module Name: Data Mining
+Credits: 15 Mandotary on your course? false Delivery: term 1
+
+Modules Reserved
+==============
+Module Code: CTEC3110 Module Name: Secure Web Application Development
+Credits: 15 Mandotary on your course? false Delivery: term 1
+
+Module Code: CTEC3904 Module Name: Functional Software Development
+Credits: 15 Mandotary on your course? false Delivery: term 2
+
